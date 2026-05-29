@@ -408,8 +408,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   displayImage: {fileID: 1514469086}
-  rtspSourceUrl: rtsp://192.168.100.56:8554/mystream
-  whepUrl: http://192.168.100.56:8889/mystream/whep
+  rtspSourceUrl: rtsp://192.168.0.141:8554/mystream
+  whepUrl: http://192.168.0.141:8889/mystream/whep
 --- !u!4 &659423975
 Transform:
   m_ObjectHideFlags: 0
